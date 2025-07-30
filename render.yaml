@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: cropmate-ai-backend
+    env: python
+    buildCommand: |
+      git lfs install --force
+      git lfs pull
+      pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: FLASK_ENV
+        value: production
