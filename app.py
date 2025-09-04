@@ -12,6 +12,10 @@ crop_map = {'Wheat': 0, 'Corn': 1, 'Rice': 2, 'Barley': 3, 'Soybean': 4, 'Cotton
             'Sugarcane': 6, 'Tomato': 7, 'Potato': 8, 'Sunflower': 9}
 soil_map = {'Peaty': 0, 'Loamy': 1, 'Sandy': 2, 'Saline': 3, 'Clay': 4}
 
+@app.route('/ok', methods=['GET'])
+def check():
+    return "OK"
+
 @app.route('/predict', methods=['POST'])
 def predict():
     data = request.json
