@@ -23,8 +23,7 @@ Factors such as **climatic conditions, soil health, and market dynamics** greatl
 - **Frontend:** React / HTML / CSS / JavaScript  
 - **Backend:** Flask  
 - **Machine Learning:** Python, Scikit-learn, Pandas, NumPy  
-- **Database:** MongoDB / MySQL (based on implementation)  
-- **APIs:** Weather and soil data APIs (for real-time information)  
+- **APIs:** Weather APIs 
 
 ---
 
