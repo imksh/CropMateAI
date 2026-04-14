@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Karan Kumar",
+    "role": "Full Stack Developer & ML Developer",
+    "bio": "Passionate about creating responsive and dynamic UI/UX for web applications.",
+    "image": "/images/karan.jpg",
+    "linkedin": "https://www.linkedin.com/in/imksh3/",
+    "insta": "https://www.instagram.com/imksh.3/"
+  },
+  {
+    "name": "Nikhil Alone",
+    "role": "Frontend Developer",
+    "bio": "Loves building robust APIs and integrating databases with efficient server-side logic.",
+    "image": "/images/nikhil.png",
+    "linkedin": "https://www.linkedin.com/in/meerakapoor",
+    "insta": "https://www.instagram.com/nikhil.aloney.71/"
+  },
+  {
+    "name": "Mohd Nazar Khan",
+    "role": "ML Engineer",
+    "bio": "Focused on building intelligent systems using Python and machine learning algorithms.",
+    "image": "/images/unknown.png",
+    "linkedin": "https://www.linkedin.com/in/karanyadav",
+    "insta": "https://github.com/karanyadav"
+  },
+  {
+    "name": "Mohd Hasnain Khan",
+    "role": "Deployment & Testing Engineer",
+    "bio": "Handles cloud deployment and system optimization for scalable AI apps.",
+    "image": "/images/unknown.png",
+    "linkedin": "https://www.linkedin.com/in/simranverma",
+    "insta": "https://github.com/simranverma"
+  }
+]
